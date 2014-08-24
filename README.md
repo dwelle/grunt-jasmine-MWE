@@ -17,7 +17,10 @@ Run
 npm install
 ```
 
-which will install `grunt-contrib-jasmine` (includes `PhantomJS` headless browser), and `grunt-contrib-watch` plugins.
+which will install [grunt-contrib-jasmine][3a76e]  (includes `PhantomJS` headless browser), and [grunt-contrib-watch][19ac3] plugins.
+
+[19ac3]:https://github.com/gruntjs/grunt-contrib-watch 
+[3a76e]:https://github.com/gruntjs/grunt-contrib-jasmine
 
 ## Running
 
