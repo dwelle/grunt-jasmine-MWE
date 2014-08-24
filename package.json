@@ -1,0 +1,11 @@
+﻿{
+    "name": "grunt-contrib-jasmine-MWE",
+    "version": "0.0.1",
+    "description": "Minimal working example for grunt-contrib-jasmine plugin",
+    "dependencies": {
+        "grunt-contrib-jasmine": "~0.7.0",
+        "grunt-contrib-watch": "~0.6.1"
+    },
+    "author": "Dwelle",
+    "license": "MIT"
+}
